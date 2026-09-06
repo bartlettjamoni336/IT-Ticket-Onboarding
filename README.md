@@ -43,3 +43,6 @@ I now fill in the new employees first and last name based on the ticket request 
 <br />
 <img width="562" height="486" alt="Onboarding_CreateUser_3" src="https://github.com/user-attachments/assets/437207e1-d3cb-4af9-ac8e-c501fd56a171" />
 <p>I then hit next, and create a temporary password for the user, that he must personally change at his next logon.</p>
+<img width="573" height="486" alt="Onboarding_CreateUser_4" src="https://github.com/user-attachments/assets/45d8c534-01cc-493f-89e0-20672aec31eb" />
+<p>I hit Next, and click finish to create the user</p>
+
