@@ -15,7 +15,7 @@ Here Im simulating receiving an IT ticket for a employee onboarding and completi
 
 - Windows 11
 - Windows Server 2025 Datacenter
-- </b> (21H2)
+- </b>
 
 <h2>List of Prerequisites</h2>
 
