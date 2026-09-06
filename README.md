@@ -1,16 +1,10 @@
-# IT-Ticket-Onboarding
-Here im simulating receiving an IT ticket for a employee onboarding request.
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h1># IT-Ticket-Onboarding</h1>
+Here Im simulating receiving an IT ticket for a employee onboarding and completing the request.<br />
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
