@@ -11,6 +11,7 @@ Here Im simulating receiving an IT ticket for a employee onboarding and completi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Spiceworks Cloud Help Desk Software
+- Active Directory Users & Computers
 
 <h2>Operating Systems Used </h2>
 
