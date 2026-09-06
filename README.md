@@ -23,7 +23,7 @@ Here Im simulating receiving an IT ticket for a employee onboarding and completi
 
 </p>
 <p>
-First I come to the IT Ticketing page to see the ticket request that has been put in. This is an onboarding request on the behalf of a new employee named Juan Smith, who starts in a month from the ticket date, and will work in the sales department.
+First I come to the IT Ticketing page to see the ticket request that has been put in. This is an onboarding request from the sales manager John Doe on the behalf of a new employee named Juan Smith, who starts in a month from the ticket date, and will work in the sales department.
 </p>
 <br />
 
@@ -39,5 +39,5 @@ Next, I open up Active Directory User and Computers and under the EMPLOYEES tab 
 
 </p>
 <p>
-I now fill in the new employees first and last name based on the ticket request and create a user logon.</p>
+I now fill in the new employees first and last name based on the ticket request and create a correlating user logon.</p>
 <br />
