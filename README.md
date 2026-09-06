@@ -27,10 +27,9 @@ First I come to the IT Ticketing page to see the ticket request that has been pu
 </p>
 <br />
 
-<p>
+
 /><img width="1782" height="672" alt="Onboarding_CreateUser_1" src="https://github.com/user-attachments/assets/9b0761c1-f4b2-4c61-89a7-251ecd409628" />
 
-</p>
 <p>
 Next, I open up Active Directory User and Computers and under the EMPLOYEES tab I will add a new user.</p>
 <br />
