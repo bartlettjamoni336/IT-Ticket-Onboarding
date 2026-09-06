@@ -42,4 +42,4 @@ Next, I open up Active Directory User and Computers and under the EMPLOYEES tab 
 I now fill in the new employees first and last name based on the ticket request and create a correlating user logon.</p>
 <br />
 <img width="562" height="486" alt="Onboarding_CreateUser_3" src="https://github.com/user-attachments/assets/437207e1-d3cb-4af9-ac8e-c501fd56a171" />
-I then hit next, and create a temporary password for the user, that he must personally change at his next logon.
+<p>I then hit next, and create a temporary password for the user, that he must personally change at his next logon.</p>
