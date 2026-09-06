@@ -10,11 +10,12 @@ Here Im simulating receiving an IT ticket for a employee onboarding and completi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11
+- Windows Server 2025 Datacenter
+- </b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
