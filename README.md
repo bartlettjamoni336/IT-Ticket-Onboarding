@@ -28,8 +28,8 @@ First I come to the IT Ticketing page to see the ticket request that has been pu
 <br />
 
 <p>
-<img width="1425" height="621" alt="Lab_Ticket1" src="https://github.com/user-attachments/assets/59b22c51-6dd7-494f-8845-d482a01be85b" />
-/>
+/><img width="1782" height="672" alt="Onboarding_CreateUser_1" src="https://github.com/user-attachments/assets/9b0761c1-f4b2-4c61-89a7-251ecd409628" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
