@@ -23,7 +23,7 @@ Here Im simulating receiving an IT ticket for a employee onboarding and completi
 
 </p>
 <p>
-First I come to the IT Ticketing page to see the ticket request that has been put in.
+First I come to the IT Ticketing page to see the ticket request that has been put in. This is an onboarding request on the behalf of a new employee named Juan Smith, who starts in a month from the ticket date, and will work in the sales department.
 </p>
 <br />
 
@@ -32,14 +32,12 @@ First I come to the IT Ticketing page to see the ticket request that has been pu
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next, I open up Active Directory User and Computers and under the EMPLOYEES tab I will add a new user.</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="572" height="496" alt="Onboarding_CreateUser_2" src="https://github.com/user-attachments/assets/8fc49025-6459-424c-9812-a9133d5744b4" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+I now fill in the new employees first and last name based on the ticket request and create a user logon.</p>
 <br />
